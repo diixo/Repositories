@@ -6,9 +6,9 @@
 - https://github.com/diixo/build-gpt-chat : `125M on 14M tokens`
 - https://github.com/diixo/build-gpt : `build gpt from scratch`
 - https://github.com/diixo/chat-LLM : `chat LLM`
-- https://github.com/diixo/multiwoz-chat-gpt2
+- https://github.com/diixo/multiwoz-chat-gpt2 : only dataset. no code.
 - https://github.com/diixo/reasoning-from-scratch
-- https://github.com/diixo/gpt2-instructions-fine-tuning : `hibryd' from kaggle
+- https://github.com/diixo/gpt2-instructions-fine-tuning : `hibryd` from kaggle
 - https://github.com/diixo/gpt-instructions-fine-tuning : `original from kaggle`
 - https://github.com/diixo/ft-notices
 - https://github.com/diixo/slotting
