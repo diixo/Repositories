@@ -2,7 +2,7 @@
 
 - https://github.com/diixo/bAbi-tasks-with-transformer-model
 - https://github.com/diixo/build-chat-with-transformer-model
-- https://github.com/diixo/build-multi-turn-chatbot-GPT2
+- https://github.com/diixo/build-multi-turn-chatbot-GPT2 : based on `DailyDialog`. Original from: https://github.com/ljm565/multi-turn-chatbot-GPT2
 - https://github.com/diixo/build-gpt-chat : `125M on 14M tokens`
 - https://github.com/diixo/build-gpt : `build gpt from scratch`
 - https://github.com/diixo/chat-LLM : `chat LLM`
